@@ -32,7 +32,7 @@ text = '「もしおれがただ偶然、そしてこうしようというつも
 
 # 4️⃣ Generate, display, and save audio files in a loop.
 generator = pipeline(
-    text, voice='af_heart', # <= change voice here
+    text, voice='jf_alpha',  # 日本語の音声モデル
     speed=1, split_pattern=r'\n+'
 )
 # Alternatively, load voice tensor directly:
