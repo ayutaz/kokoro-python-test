@@ -100,7 +100,7 @@ typing-extensions==4.13.2
 typing-inspection==0.4.0
 unidic==1.1.0
 uritemplate==4.1.1
-urllib3==2.4.0
+urllib3==2.5.0
 wasabi==0.10.1
 wcwidth==0.2.13
 weasel==0.4.1
