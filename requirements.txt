@@ -55,7 +55,7 @@ numpy==2.2.5
 packaging==25.0
 parso==0.8.4
 phonemizer-fork==3.3.2
-pip==25.1.1
+pip==26.0
 plac==1.4.5
 preshed==3.0.9
 prompt-toolkit==3.0.51
